@@ -24,12 +24,16 @@
 <a href="https://www.youtube.com/channel/UC6e9HvwaEPQhtdY3l6uizbg"><img src="https://dougs-crossing-game.netlify.app/youtube.svg" alt="YouTube" width="25" height="25" /></a>
 
 <a href="mailto:jobs4me321@gmail.com?subject=[GitHub]"><img src="https://dougs-crossing-game.netlify.app/gmail.svg" alt="YouTube" width="25" height="25" /></a>
+  
+  
 Website I'm currently developing: 
 https://gpapopulationhealth.com/
 
+  
 My first mobile app: 
 https://tinyurl.com/3b7fz9we
 
+  
 **ALL RIGHTS RESERVED**
 - As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
 
