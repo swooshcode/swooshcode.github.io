@@ -15,7 +15,7 @@
 </p>
 
 <a href="https://www.facebook.com/YungBachelor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="YungBachelor" height="30" width="40" /></a>
-</p>
+
   
  <a href="https://www.instagram.com/swooshcode/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swooshcode" height="30" width="40" /></a>
 
