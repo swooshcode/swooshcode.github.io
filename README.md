@@ -1,4 +1,3 @@
-### 
 <h1 align="left"> Thank You For Making Me Your Standard </h1>
 <p>
   
