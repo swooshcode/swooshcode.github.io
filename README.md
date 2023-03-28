@@ -36,4 +36,22 @@ https://tinyurl.com/3b7fz9we
 **ALL RIGHTS RESERVED**
 - As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
 
+Dear Parents,
+
+
+I hope this note finds you well and not too tired from your child's endless questions about occupations this week. We have been exploring various jobs in our community, and the kids have been having a blast pretending to be doctors, dentists, soldiers, garbage collectors, police officers, painters, and firefighters.
+
+
+To help reinforce this week's theme, we recommend playing "Guess the Occupation" with your child. Take turns acting out different jobs, and see if your child can guess what you are pretending to be. You can also play "I Spy" and look for different occupations in your community, like a police car or a construction worker.
+
+
+Remember, the question this week is "What does he/she do?" and the answer is "He/She is a…" So, if your child comes up to you and asks, "What does the garbage collector do?" just remember to answer, "He/She is a garbage collector."
+
+
+Thank you for your continued support, and we hope you have a fun-filled week exploring different occupations with your child.
+
+
+Sincerely,
+Your Child's Kindergarten Teacher
+
 ![image](https://user-images.githubusercontent.com/115655242/224469895-2952625e-0d72-433f-aef0-d75d12009a9a.png)
