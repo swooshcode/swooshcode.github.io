@@ -32,6 +32,20 @@ https://gpapopulationhealth.com/
 My first mobile app: 
 https://tinyurl.com/3b7fz9we
 
+Dear Parents,
+
+This week we've been exploring the exciting world of jobs! Each day, we've been focusing on a different profession and learning all about what these talented individuals do. Here are a few ideas for how you can continue exploring different jobs and careers with your child at home:
+
+- Encourage imaginative play and provide dress-up clothes and props.
+- Read books about different jobs, like "Oh, the Places You'll Go!" by Dr. Seuss or "Career Day" by Anne Rockwell.
+- Watch educational videos that showcase different jobs and careers.
+- Visit a career fair or event in your area.
+- Have a family career day where everyone can dress up as their favorite professional and talk about what they do.
+
+Who knows, maybe your little one will be inspired to pursue one of these careers one day! (Or maybe they'll just stick to being a professional finger-painter. Hey, it's a job, right?)
+
+Best,
+Teacher Nigel.
   
 **ALL RIGHTS RESERVED**
 - As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
