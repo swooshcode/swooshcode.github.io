@@ -3,7 +3,7 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
   <p> 🍯 Hi there, I'm Nigel (黃龍) Phillips and I'm a Lead Software Developer at ChitChat, a software development company based in Massachusetts, United States. I have experience in UX/UI Design, XCode, TESTFLIGHT, Web Development, Web Funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more!
-    </ul>
+    
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
@@ -32,19 +32,17 @@ https://gpapopulationhealth.com/
 My first mobile app: 
 https://tinyurl.com/3b7fz9we
 
-Dear Parents,
+Hey there, cool parents! This week in class, we've been exploring the wild world of professions! We've covered a bunch of exciting occupations like a Vetinarian (not a typo, we're just being fancy), Astronaut, Engineer, Athlete, Pilot, Dancer, and Musician. But don't let the fun stop there! Here are some ideas to keep the career train rolling at home: 
 
-This week we've been exploring the exciting world of jobs! Each day, we've been focusing on a different profession and learning all about what these talented individuals do. Here are a few ideas for how you can continue exploring different jobs and careers with your child at home:
+- Time to play dress-up! Encourage your child to unleash their inner professional by providing them with costumes and props.
+- Crack open some books about different jobs! We recommend "Oh, the Places You'll Go!" by Dr. Seuss or "Career Day" by Anne Rockwell. 
+- Check out educational videos that showcase different professions. Who knows, maybe your kid will be inspired to become a professional finger-painter or a unicorn trainer!
+- See if there are any career fairs or events in your area that you can attend. 
+- And if all else fails, have a family career day where everyone can dress up as their favorite professional and talk about what they do. Just don't be surprised if your little one declares they want to be a professional ice cream taster when they grow up. 
 
-- Encourage imaginative play and provide dress-up clothes and props.
-- Read books about different jobs, like "Oh, the Places You'll Go!" by Dr. Seuss or "Career Day" by Anne Rockwell.
-- Watch educational videos that showcase different jobs and careers.
-- Visit a career fair or event in your area.
-- Have a family career day where everyone can dress up as their favorite professional and talk about what they do.
+Thanks for being awesome parents, and keep on rocking! 
 
-Who knows, maybe your little one will be inspired to pursue one of these careers one day! (Or maybe they'll just stick to being a professional finger-painter. Hey, it's a job, right?)
-
-Best,
+Best, 
 Teacher Nigel.
   
 **ALL RIGHTS RESERVED**
