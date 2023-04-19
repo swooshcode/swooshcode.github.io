@@ -32,6 +32,19 @@ https://gpapopulationhealth.com/
 My first mobile app: 
 https://tinyurl.com/3b7fz9we
 
+Dear Parents,
+
+I hope this note finds you well! We have been busy learning and having fun in the classroom. This week, we reinforced the theme patterns - "What does (person) do?", "What is (person's) job?", and "What is (person) doing?". The students showed great understanding of these patterns and were able to use them correctly.
+
+In addition, we also tested the students' understanding of sight words, numbers, and the alphabet. They did a fantastic job recognizing and identifying these important concepts. We also challenged their critical thinking skills with some fun and engaging activities.
+
+One activity that really got the students thinking was a game where they had to match objects with the letters they started with. It was so much fun watching them think creatively and use their problem-solving skills!
+
+Overall, it has been another great week in our kindergarten class. I am so proud of all the hard work and progress our students are making. Thank you for your continued support, and I look forward to another fun and exciting week ahead!
+
+Best regards,
+Nigel.
+
 Hey there, cool parents! This week in class, we've been exploring the wild world of professions! We've covered a bunch of exciting occupations like a Vetinarian (not a typo, we're just being fancy), Astronaut, Engineer, Athlete, Pilot, Dancer, and Musician. But don't let the fun stop there! Here are some ideas to keep the career train rolling at home: 
 
 - Time to play dress-up! Encourage your child to unleash their inner professional by providing them with costumes and props.
