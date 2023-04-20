@@ -44,6 +44,7 @@ Overall, it has been another great week in our kindergarten class. I am so proud
 
 Best regards,
 Nigel.
+![Screenshot_2023-04-20-17-55-48-40](https://user-images.githubusercontent.com/115655242/233399267-33a106d3-c90b-4e29-a089-bcb2909bba70.jpg)
 
 Hey there, cool parents! This week in class, we've been exploring the wild world of professions! We've covered a bunch of exciting occupations like a Vetinarian (not a typo, we're just being fancy), Astronaut, Engineer, Athlete, Pilot, Dancer, and Musician. But don't let the fun stop there! Here are some ideas to keep the career train rolling at home: 
 
