@@ -35,4 +35,4 @@ https://tinyurl.com/3b7fz9we
 **ALL RIGHTS RESERVED**
 - As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
 
-![image](https://user-images.githubusercontent.com/115655242/224469895-2952625e-0d72-433f-aef0-d75d12009a9a.png)
+[one.pdf](https://github.com/swooshcode/swooshcode.github.io/files/11413861/one.pdf)
