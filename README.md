@@ -22,6 +22,8 @@ https://github.com/swooshcode/swooshcode.github.io/assets/115655242/da5feac2-849
 
 https://github.com/swooshcode/swooshcode.github.io/assets/115655242/0ddf9e86-f20a-4af4-b973-970e403aa565
 
+These architecture renderings are from Tritone Imagery & Animation / 增肆數位影像(@tritone_imagery_and_animation on Instagram)
+
 A month ago, I reached out to Tseng Shihida, from Tritone Imagery & Animation, proposing a potentially exciting collaboration between our companies in the realm of Virtual Reality. I have been enthusiastic about the prospect of working together to revolutionize the VR gaming industry, given our successful history of delivering results plus their proven track record in virtual reality and architectural rendering.
 
 To recap, our proposition is to create an immersive Formosan(Taiwanese)-flavored Virtual Reality game, an experience that simulates a dynamic, engaging and interactive environment for its users. This project aims to blend real-world business concepts with gaming mechanisms, including the idea of a virtual economy that promotes player engagement and real commerce growth within the game.
