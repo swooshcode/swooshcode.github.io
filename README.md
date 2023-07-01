@@ -5,6 +5,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
 
 https://github.com/swooshcode/swooshcode.github.io/assets/115655242/2744f2f5-167f-45b6-93d0-8b9235131fd5
+💰“Tu Li City,” or “TooRich City,” is a virtual city construction project curated by 黄河山(@toorichcity_hhs on Instagram)
 
   <p> 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
 At my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
