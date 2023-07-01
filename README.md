@@ -6,15 +6,25 @@
 At my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
 Here you will find direct links to my GitHub repositories and a collection of my written pieces including articles and blog posts about software development.
 At the moment, I am engrossed in a number of open-source projects, which include:
+    
 1. Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
+
 2. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 .
+
 3. DocuAssist (Completed): An automated document assistance tool, it aids in creating, editing, and sharing documents effectively. You can find the project here: https://lnkd.in/gMZzbqvB .
+
 4. Auto-GPT-Plugins (In progress): This is an effort towards creating plugins to automate a variety of tasks, enhancing productivity. This plugin I have been honored to work on will automate speech with Google's Text-To-Speech API. The closed pull request can be found here: https://lnkd.in/gpzSThzY
+
 It is still a work in progress and will be reopened soon to merge with this codebase: https://lnkd.in/gzQ6MnwX
+
 Additionally, I'm also pouring my creativity into a few personal projects to be released a bit later. I'm always open to intriguing ideas and love to challenge myself with new projects. So, if you have any in mind, feel free to drop a message!
+
 Thank you for taking out time to read this! Stay tuned for more updates.
+
 I'm excited to network with other developers and learn more about the latest technologies. I'm also eager to take on new challenges and contribute to the development of innovative software products.
+
 If you're looking for a highly skilled and experienced software developer, I would be honored to discuss my qualifications with you further. Below are clickable links to contact me and see my publications and cv. For more information about my company, FRAME TECH SOLUTIONS LTD., CO. 框架技術解決方案, visit https://www.frametechtw.com/
+
 Thank you for your time and consideration.
 
 <h3 align="left">Languages and Tools:</h3>
