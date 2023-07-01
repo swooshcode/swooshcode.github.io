@@ -1,5 +1,5 @@
 ### 
-<h1 align="left"> 黃龍 Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
+<h1 align="left"> 黃龍 Nigel Phillips: Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
 <p>
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
@@ -8,6 +8,33 @@ https://github.com/swooshcode/swooshcode.github.io/assets/115655242/2744f2f5-167
 
 💰“Tu Li City,” or “TooRich City,” is a virtual city construction project curated by 黄河山(@toorichcity_hhs on Instagram)
 
+https://github.com/swooshcode/swooshcode.github.io/assets/115655242/359c6257-1c7e-47e3-b356-ccd4f0799ff2
+
+
+https://github.com/swooshcode/swooshcode.github.io/assets/115655242/f1b9e19c-be8d-4ce9-8cc9-17c86e8a5c28
+
+
+https://github.com/swooshcode/swooshcode.github.io/assets/115655242/c9f99e98-3d07-4e54-9275-4e8525e8f489
+
+
+https://github.com/swooshcode/swooshcode.github.io/assets/115655242/da5feac2-849d-4578-ab93-db3f61e298f9
+
+
+https://github.com/swooshcode/swooshcode.github.io/assets/115655242/0ddf9e86-f20a-4af4-b973-970e403aa565
+
+A month ago, I reached out to Tseng Shihida, from Tritone Imagery & Animation, proposing a potentially exciting collaboration between our companies in the realm of Virtual Reality. I have been enthusiastic about the prospect of working together to revolutionize the VR gaming industry, given our successful history of delivering results plus their proven track record in virtual reality and architectural rendering.
+
+To recap, our proposition is to create an immersive Formosan(Taiwanese)-flavored Virtual Reality game, an experience that simulates a dynamic, engaging and interactive environment for its users. This project aims to blend real-world business concepts with gaming mechanisms, including the idea of a virtual economy that promotes player engagement and real commerce growth within the game.
+
+I also envision a collaborative opportunity to build this project together with Huang Heshan, digital artist, and founder of plastic punk aesthetics in China. His masterpieces include “Wild Design,” “Fake IKEA,” and “Too Rich City.”
+
+At Frame Tech Solutions, we value partnerships that foster creativity, innovation, and synergy, and we see a potential partnership with Tritone Imagery & Animation and Huang Heshan as one that could redefine the VR gaming landscape.
+
+If you are reading this, or if you would like to support this project, I would be more than happy to arrange a meeting to further discuss our ideas and how we could bring this project to life. You're welcome to learn more about our company here: https://www.frametechtw.com
+
+-------
+
+<h1> Who am I? </h1>
   <p> 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
 At my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
 Here you will find direct links to my GitHub repositories and a collection of my written pieces including articles and blog posts about software development.
